@@ -7,4 +7,9 @@ Ajudar na organização de suas viagens entre familiares ou amigos.
 ## Tecnologias
 - ReactJS
 - TailwindCSS
+- Tailwind Variants
 - Lucide icons
+- React Router
+- React Day Picker
+- Date FNS
+- Axios
